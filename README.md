@@ -1,5 +1,5 @@
- # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I work with Frontend => React, Angular, Java, NodeJS<br>💬 Backend => Java, NodeJs, Docker<br>🌱 SQL => PostgresSQL, MariaDB<br>👯 I’m looking for a job in this area<br>🤔 I’m born inside an island, Singapore, living in <br>      Macpherson<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I play Table Tennis everyday and love <br>     listening to Spotify.
+# 💫 About Me:
+😄 Pronouns: He/His<br>🔭 I work with Frontend => React, Angular, Java, NodeJS<br>💬                     Backend  => Java, NodeJs, Docker<br>🌱                     SQL           => PostgresSQL, MariaDB<br>🌱 I do embedded programming like PIC also<br>👯 I’m currency looking for a job in this area<br>🤔 Sadly, I’m born inside an island, living in Macpherson, Singapore<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact:  I play Table Tennis everyday and love listening to Spotify.
 
 
 ## 🌐 Socials:
