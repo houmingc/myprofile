@@ -1,3 +1,8 @@
+# Hi there! 👋
+
+I'm Hou Ming, a passionate DevOps and Full-Stack Engineer with expertise in building and optimizing systems.
+
+
 # 💫 About Me:
 😄 Pronouns: He/His<br>🔭 I work with Frontend => React, Angular, Java, NodeJS<br>💬                     Backend  => Java, NodeJs, Docker<br>🌱                     SQL           => PostgresSQL, MariaDB<br>🌱 I do embedded programming like PIC also.<br>👯 I’m currency looking for a job with set of skills mention above.<br>🤔 I’m born inside an island, living in Macpherson, Singapore.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact:  I play Table Tennis everyday and love listening to Spotify.
 
