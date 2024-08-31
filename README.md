@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Hou Ming, a passionate DevOps and Full-Stack Engineer with expertise in building and optimizing systems.
+I'm Hou Ming, a passionate DevOps and Full-Stack Engineer with expertise in building and optimizing systems. I aspire to be django developer.
 
 
 # 💫 About Me:
