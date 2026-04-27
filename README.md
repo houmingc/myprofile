@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm Hou Ming, a passionate Electrical Engineer with expertise in building and optimizing systems. I aspire to be Python developer. Currently, i am working on PyTorch for deep learning.
+I'm Hou Ming, a passionate Electrical Engineer with expertise in building and optimizing Electrical systems. I aspire to be LEW 8 by next 2030.
 
 
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I work with Frontend => React, Angular, Java, NodeJS<br>💬                     Backend  => Java, NodeJs, Docker, GPU,<br>🌱                     SQL           => PostgresSQL, MariaDB<br>🌱 I do embedded programming like PIC before also.<br>👯 I’m currency looking for a job with set of skills mention above.<br>🤔 I’m born inside an island, living in Macpherson, Singapore.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact:  I play Table Tennis everyday and love listening to Spotify.
+😄 Pronouns: He/His<br>🔭 I work with Frontend => Electrical circuit , Genset, MCCB, RCB<br>💬                     Backend  => switch board, single diagram, GPU,<br>🌱                     SQL           => PostgresSQL, MariaDB<br>🌱 I do embedded programming like PIC before also.<br>👯 I’m currency looking for a job with set of skills mention above.<br>🤔 I’m born inside an island, living in Macpherson, Singapore.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact:  I play Table Tennis everyday and love listening to Spotify.
 
 
 ## 🌐 Socials:
