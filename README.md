@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Hou Ming, a passionate Project Engineer with expertise in building and optimizing systems. I aspire to be Python developer. Currently, i am working on PyTorch for deep learning.
+I'm Hou Ming, a passionate Electrical Engineer with expertise in building and optimizing systems. I aspire to be Python developer. Currently, i am working on PyTorch for deep learning.
 
 
 # 💫 About Me:
