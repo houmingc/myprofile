@@ -27,7 +27,9 @@ To contribute to Singapore’s electrical and power engineering industry while a
 📍 Based in MacPherson, Singapore
 
 📫 Contact
-Please refer to my social links below.
+
+(65)91809942
+
 
 ⚡ Interests
 🏓 Table Tennis
