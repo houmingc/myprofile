@@ -14,7 +14,9 @@ I’m Hou Ming, a passionate Electrical Engineering professional based in Singap
 
 💻 Technical Skills
 • Embedded programming experience with PIC microcontrollers
+• Microcontroller Electrical Design
 • Basic database knowledge in PostgreSQL and MariaDB
+• Electrical Design (Synchronous, Asynchronous motor)
 
 🌱 Career Objective
 Currently seeking opportunities in the electrical engineering and power systems industry where I can contribute my technical skills and continue developing towards LEW certification.
@@ -27,7 +29,6 @@ To contribute to Singapore’s electrical and power engineering industry while a
 📍 Based in MacPherson, Singapore
 
 📫 Contact
-
 (65)91809942
 
 
