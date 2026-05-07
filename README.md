@@ -19,10 +19,18 @@ I’m Hou Ming, a passionate Electrical Engineering professional based in Singap
 🌱 Career Objective
 Currently seeking opportunities in the electrical engineering and power systems industry where I can contribute my technical skills and continue developing towards LEW certification.
 
+
+🎯 Career Goal
+To contribute to Singapore’s electrical and power engineering industry while advancing towards LEW Grade 8 certification through continuous learning, site experience, testing, commissioning, and electrical system design.
+
+
 📍 Based in MacPherson, Singapore
 
 📫 Contact
 Please refer to my social links below.
 
 ⚡ Interests
-I enjoy playing table tennis regularly and listening to music on Spotify.
+🏓 Table Tennis
+🎹 Piano & Music
+🎧 Spotify
+🔌 Electrical Power Systems
